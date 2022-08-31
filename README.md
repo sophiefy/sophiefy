@@ -2,7 +2,7 @@
 
 I'm Francis Hu, an undergraduate student studying in Computer School of Whuhan University, China.
 
-- 🎓 I'm currently interested in text-to-speech, voice conversion, voice cloning.
+- 🎓 I'm currently interested in text-to-speech, voice conversion voice cloning.
 - 😋 I can speak Chinese, English and Japanese.
 - 🍵 I love Chinese Calligraphy!
 
