@@ -6,6 +6,8 @@ I'm Francis Hu, an undergraduate student studying in Computer School of Wuhan Un
 - 😋 I can speak Chinese, English and Japanese.
 - 🍵 I love Chinese Calligraphy!
 
+Here's my [personal website](https://francis-komizu.github.io/).
+
 Feel free to reach me at:
 
 <p> 
