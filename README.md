@@ -13,5 +13,3 @@ Feel free to reach me at:
 </p> 
 
 [![sophiefy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sophiefy&show_icons=true&theme=tokyonight)](https://github.com/sophiefy/github-readme-stats)
-
-[![sophiefy's github activity graph](https://activity-graph.herokuapp.com/graph?username=sophiefy&theme=react-dark)](https://github.com/sophiefy/github-readme-activity-graph)
