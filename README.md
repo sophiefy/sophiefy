@@ -6,27 +6,6 @@ I'm Francis Hu, an undergraduate student studying in School of Computer Science 
 - 😋 I can speak Chinese, English and Japanese.
 - 🍵 I love Chinese Calligraphy!
 
-<div align = "center">
-<table style="width:100%">
-  <thead>
-    <tr>
-      <th> Synthesized Audio  </th>
-      <th width="550"> Text  </th>
-    </tr>
-  </thead>
-  <tbody>
-   <tr>
-      <td align = "center">
-      <a href="https://github.com/sophiefy/sophiefy/blob/main/intro_ja.wav" rel="nofollow">
-            <img align="center" src="https://github.com/PaddlePaddle/PaddleSpeech/blob/develop/docs/images/audio_icon.png" width="200 style="max-width: 100%;"></a><br>
-      </td>
-      <td >私はただの通りすがりの吸血鬼だ。怪しい者じゃない。</td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
-
 Feel free to reach me at:
 
 <p> 
