@@ -10,7 +10,7 @@ I'm Francis Hu, an undergraduate student studying in School of Computer Science 
 **Some synthesized audio clips**
   
 ```
-私はフィーフィで、ただの通りすがりの吸血鬼だ。
+私はソフィーフィで、ただの通りすがりの吸血鬼だ。
 ```
 [intro_ja.webm](https://github.com/sophiefy/sophiefy/assets/87693204/58da8a0e-3ddb-4b79-9de9-ecc43bb634db)
 
