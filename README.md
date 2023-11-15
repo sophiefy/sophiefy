@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm Francis Hu, an undergraduate student studying in School of Computer Science of Wuhan University, China.
-
 - 🎓 I'm currently interested in speech synthesis and natural language processing.
 - 😋 I can speak Chinese, English and Japanese.
 - 🍵 I love Chinese Calligraphy!
